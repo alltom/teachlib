@@ -1,0 +1,4 @@
+
+$ gem install ruby-processing
+$ rp5 run go.rb ex01.rb
+$ rp5 run go.rb ex02.rb
